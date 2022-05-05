@@ -3,7 +3,7 @@
 # Test idadmindiv package for province information
 # Sparisoma Viridi | https://github.com/dudung
 # 
-# Execute: python -m tests.idadmindiv_lv1
+# Execute: python -m tests.idadmindiv_lev1
 # 
 # 20220505 create this test file and modify __init__.py file
 # 
@@ -15,3 +15,13 @@ for v in vars:
   if not '__' in v and not 'info' in v:
     print(v, "= ", end='')
     print(getattr(ac, v))
+
+print()
+
+import idadmindiv.pb as pb
+
+vars = dir(pb)
+for v in vars:
+  if not '__' in v and not 'info' in v:
+    print(v, "= ", end='')
+    print(getattr(pb, v))
