@@ -21,3 +21,9 @@ import idadmindiv.bt as bt
 import idadmindiv.ba as ba
 import idadmindiv.nb as nb
 import idadmindiv.nt as nt
+
+import idadmindiv.kb as kb
+import idadmindiv.kt as kt
+import idadmindiv.ks as ks
+import idadmindiv.ki as ki
+import idadmindiv.ku as ku
