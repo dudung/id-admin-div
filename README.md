@@ -1,2 +1,2 @@
 # id-data
-some data of id
+administrative division of id
