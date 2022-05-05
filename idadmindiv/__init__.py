@@ -27,3 +27,11 @@ import idadmindiv.kt as kt
 import idadmindiv.ks as ks
 import idadmindiv.ki as ki
 import idadmindiv.ku as ku
+
+import idadmindiv.sa as sa
+import idadmindiv.st as st
+import idadmindiv.sn as sn
+import idadmindiv.sg as sg
+import idadmindiv.go as go
+import idadmindiv.sr as sr
+
