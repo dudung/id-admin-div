@@ -35,3 +35,8 @@ import idadmindiv.sg as sg
 import idadmindiv.go as go
 import idadmindiv.sr as sr
 
+import idadmindiv.ma as ma
+import idadmindiv.mu as mu
+
+import idadmindiv.pa as pa
+import idadmindiv.pb as pb
