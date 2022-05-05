@@ -11,3 +11,10 @@ import idadmindiv.la as la
 import idadmindiv.bb as bb
 import idadmindiv.kr as kr 
 
+import idadmindiv.jk as jk
+import idadmindiv.jb as jb
+import idadmindiv.jt as jt
+import idadmindiv.yo as yo
+import idadmindiv.ji as ji
+import idadmindiv.bt as bt
+
